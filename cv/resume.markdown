@@ -2,8 +2,8 @@
 1130 Broadway St., San Antonio, TX 78215
 (210) 216-2748
 chandler.s.ogden@gmail.com
- http://chandlerogden.work
- http://www.linkedin.com/in/chandlerogden
+http://chandlerogden.work
+http://www.linkedin.com/in/chandlerogden
 
 ## Summary
 
