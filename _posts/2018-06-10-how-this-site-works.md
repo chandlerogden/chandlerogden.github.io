@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: posts
 title: "How this site works!"
+author: 'Chandler Ogden'
 date: 2018-06-10
 ---
 
