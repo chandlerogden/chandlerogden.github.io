@@ -3,10 +3,6 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-hmm {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.5em;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -29,6 +25,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
