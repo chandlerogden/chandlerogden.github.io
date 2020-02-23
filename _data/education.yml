@@ -1,10 +1,24 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: The University of Texas at San Antonio
+  dates: 2012 - 2015
+  qualification: BBA Finance
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  description: | # this will include new lines to allow paragraphs
+    Studied financial concepts such as expected value, time value of money, leverage, and risk management.
+
+- layout: left
+  name: The University of Texas at San Antonio
+  dates: 2015 - 2017
+  qualification: MS Data Analytics
+  quote: >
+     Part of the inaugural class of UTSA's Masters of Science in Data Analytics evening cohort.
+  description: | # this will include new lines to allow paragraphs
+  Applications:
+    Text analytics & sentiment analysis, machine learning, factor analysis, CLTV, customer segmentation, recommendation systems
+
+  Languages:
+    Python, R, SQL, Hive,
+
+  Technology:
+    SAS, RStudio, PyCharm, RapidMiner, Tableau, Hadoop, Spark
